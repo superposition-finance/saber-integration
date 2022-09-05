@@ -10,7 +10,7 @@ edition = "2018"
 arrayref = "0.3.6"
 solana-program = "=1.7.8"
 stable-swap-client = { path = "../stable-swap-client", version = "1.0.0" }
-thiserror = "1.0.24"
+thiserror = "1.0.34"
 
 [features]
 test-bpf = []
